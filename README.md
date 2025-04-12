@@ -3,10 +3,6 @@
 This is a project implemented on a standardised dataset taken from Kaggle.The goal was to enable readers to identify fake news artices while surfing on the web so that they could be well informed with authentic news and also to curb the spreading of false information.
 Dataset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
-## Overview
-
-This project implements a fake news detection system using an LSTM-based deep learning model. The system is trained on a dataset containing both real and fake news articles, and can predict whether a given news article is likely to be fake or real.
-
 ## Features
 
 - Text preprocessing with NLTK
